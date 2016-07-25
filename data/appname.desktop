@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=App Name
+GenericName=Generic Name
+Comment= A simple app
+Categories=Video;Audio;
+Exec=appname %U
+Icon=app-icon-filename
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/appname;
+X-GNOME-Gettext-Domain=transcodium
+Actions=AboutDialog;
+
+[Desktop Action AboutDialog]
+Exec=appname --about
+Name=About App Name
