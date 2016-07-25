@@ -1,3 +1,3 @@
 # Granite Template
 
-A basic template for developing a granite application for elementary OS.
+A basic granite template for developing an application for [elementary OS](https://elementary.io).
